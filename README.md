@@ -30,5 +30,5 @@ Predicted allocation (Road Transport):
 - Python (Pandas, Matplotlib, Scikit-learn)
 
 ## 📎 Author
-[Your Name]
+Pratyush Verma
 BTech AI Student
