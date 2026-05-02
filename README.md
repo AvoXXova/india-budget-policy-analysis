@@ -1,5 +1,8 @@
 # 🇮🇳 Indian Union Budget Analysis (2021–2024)
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/AvoXXova/india-budget-policy-analysis/blob/main/budget_analysis.ipynb)
+
 ## 📌 Objective
 This project analyzes the Indian Union Budget to identify key government priorities using data analysis and machine learning.
 
